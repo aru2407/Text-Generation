@@ -1,1 +1,3 @@
-# Text-Generation
+# Text Generation
+
+I worked on a text generation model using Transformer Decoder architecture on a Guttenberg books text dataset. I have used glove text embeddings for this task.  
